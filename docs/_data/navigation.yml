@@ -1,0 +1,15 @@
+main:
+  - title: "Documentation"
+    url: "/core/docs/getting-started/"
+  - title: "GitHub"
+    url: "https://github.com/E-Segments/core"
+
+docs:
+  - title: "Getting Started"
+    url: "/core/docs/getting-started/"
+  - title: "Result Pattern"
+    url: "/core/docs/result/"
+  - title: "Option Type"
+    url: "/core/docs/option/"
+  - title: "Traits"
+    url: "/core/docs/traits/"
